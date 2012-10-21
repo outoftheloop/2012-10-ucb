@@ -4,3 +4,5 @@
 
 For a schedule and installation instructions check the bootcamp webpage
 at http://swcarpentry.github.com/2012-10-ucb.
+
+This is the desi readme
